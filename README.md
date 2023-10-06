@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://gawademansi.io)
 <h1 align="center">Hi 👋, I'm Mansi Jalindar Gawade</h1>
 <h3 align="center">A passionate Data Analysis | Coding enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/studious-read-study-learn-gif-16104060">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/gawademansi2512/gawademansi2512/assets/92088715/ea948f94-9e1f-456e-9045-fdfe7d545c70)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawademansi2512&label=Profile%20views&color=0e75b6&style=flat" alt="gawademansi2512" /> </p>
 
 - 🔭 I’m currently working on **Co2 emission prediction**
