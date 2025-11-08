@@ -38,9 +38,18 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/mansi-gawade-92298925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-gawade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mansi_gawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mansi_gawade" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mansigawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mansigawade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mansi-gawade-92298925a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-gawade" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/mansi_gawade" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mansi_gawade" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/mansigawade" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mansigawade" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/user1530LJ/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
+</a>
 </p>
 
 ---
